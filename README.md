@@ -1,4 +1,4 @@
 MyRepository
 ============
 
-My first repository
+My first repository and planning to add code.
